@@ -1,0 +1,29 @@
+{
+  "name": "backend-login",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^2.2.0",
+    "cors": "^2.8.5",
+    "dotenv": "^17.0.1",
+    "express": "^4.21.2",
+    "mongoose": "^8.16.1",
+    "mysql": "^2.18.1",
+    "ws": "^8.18.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DGDE5228/PulsenseBack.git"
+  },
+  "bugs": {
+    "url": "https://github.com/DGDE5228/PulsenseBack/issues"
+  },
+  "homepage": "https://github.com/DGDE5228/PulsenseBack#readme",
+  "description": ""
+}
